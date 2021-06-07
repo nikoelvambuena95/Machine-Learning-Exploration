@@ -37,4 +37,5 @@ The <b>keras</b> model seems to be the <b>best performing</b> model in terms of 
 ---
 ### Contact
 LinkedIn | https://www.linkedin.com/in/niko-elvambuena/
+<br>
 Email | niko.elvambuena95@gmail.com
