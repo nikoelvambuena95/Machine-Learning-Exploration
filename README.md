@@ -4,7 +4,7 @@ This repo is an ongoing exploration of Machine Learning models.
 <br>
 Current objectives:
 - Unsupervised models
-- Parameter readjustment
+- Hyperparameter Tuning
 
 ### Multi-Linear Regression
 Not the best model because of its low r-score: 0.104...
