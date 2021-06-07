@@ -30,7 +30,15 @@ best given parameters: {'algorithm': 'auto', 'n_neighbors': 11, 'weights': 'dist
 ### Keras
 Accuracy below 0.84 prior to adjusting 'number_hidden_nodes' parameter.
 
-Adjusted 'number_hidden_nodes' from 4 to 100, accuracy increased to 0.88 with a loss of 1.11...
+Adjusted 'number_hidden_nodes' from 4 to 100, accuracy increased to 0.88 with a loss of 1.11.
+```python
+
+from tensorflow.keras.layers import Dense
+number_inputs = 40
+number_hidden_nodes = 100
+keras.add(Dense(units=number_hidden_nodes,
+                activation='relu', input_dim=number_inputs))
+```
 
 ### Conclusion
 The <b>keras</b> model seems to be the <b>best performing</b> model in terms of accuracy.
