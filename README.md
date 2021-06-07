@@ -1,4 +1,11 @@
-# machine-learning-challenge
+# Machine Learning - Exploration
+This repo is an ongoing exploration of Machine Learning models.
+<br>
+<br>
+Current objectives:
+- Unsupervised models
+- Parameter readjustment
+
 ### Multi-Linear Regression:
 Not the best model because of its low r-score: 0.104...
 
@@ -27,3 +34,7 @@ Adjusted 'number_hidden_nodes' from 4 to 100, accuracy increased to 0.88 with a 
 
 ## Conclusion:
 The <b>keras</b> model seems to be the <b>best performing</b> model in terms of accuracy.
+---
+### Contact
+LinkedIn | https://www.linkedin.com/in/niko-elvambuena/
+Email | niko.elvambuena95@gmail.com
